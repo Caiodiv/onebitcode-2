@@ -1,0 +1,30 @@
+li {
+    
+    color: green;
+}
+h1 {
+    color: purple;
+    font-size: 50px;
+    border: 2px dashed orange;
+}
+
+body{
+    background-image: url('https://s2.glbimg.com/xSJsM5FIVm0y4MK3uMl16rM17h8=/e.glbimg.com/og/ed/f/original/2018/10/09/extra_large-1539004005-cover-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.red-text {
+    color: red;
+    font-size: 20px;
+}
+
+.big-text
+{
+    font-size: 40px;
+}
+
+#europa-text {
+    font-size: 10px;
+    color: blue;
+}
