@@ -1,0 +1,63 @@
+/* Vai selecionar todos os elementos do documento
+ e vai aplicar o estilo 
+
+ * {
+     border: 2px solid;
+ }
+ 
+ */
+ 
+ /* Seletor de decendencia 
+
+No exemplo abaixo você selecionará todos os ancore (a) que estão dentro de "li"
+
+li a{
+    color: red;
+}
+
+*/
+
+/* Seletor Filho 
+
+No exemplo abaixo, todo "a" que for filho de li vai receber esse estilo
+
+
+li > a {
+    color: red;
+}
+
+*/
+
+/* Seletor Adjascente 
+
+imagina que eu quero colocar um estilo em todo "h4" que 
+vier logo depois de "h1"
+
+h1 + h4 {
+    border: 4px dashed;
+}
+
+*/
+
+/* Seletor de atributo 
+
+"busca em todos os ancores (a) que tenham um href igual o meu"
+
+a[href='/recibo'] {
+    color: orange;
+}
+
+*/
+
+/* pseudo classe
+
+que permite a gente selecionar os elementos de uma forma mais especifica 
+
+no exemplo abaixou todos os segundos li terão a cor roxa
+
+
+li:nth-of-type(2) {
+    color: purple;
+}
+
+*/
