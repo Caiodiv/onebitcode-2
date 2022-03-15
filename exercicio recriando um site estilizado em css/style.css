@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+}
+
+body {
+    background-color: #2c3e50;
+}
+
+div h3{
+    color: #f1c40f;
+}
+
+div h2{
+    background-color: #f1c40f;
+    border: 2px solid black;
+}
+
+li {
+    color: white;
+}
+
+.red-color{
+    color: #e74c3c;
+
+}
